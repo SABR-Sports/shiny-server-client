@@ -7,7 +7,7 @@ This npm library provides unified client code for Shiny Server, Shiny Server Pro
 In the server directory, install the module using `npm`. If the server already uses node modules, you can easily install `shiny-server-client` to your existing package.json like this:
 
 ```
-npm install --save https://github.com/rstudio/shiny-server-client/archive/master.tar.gz
+npm install --save https://github.com/SABR-Sports/shiny-server-client/archive/master.tar.gz
 ```
 
 Otherwise, you'll need to create a package.json file first, using the `npm init` command, then run the above command.
